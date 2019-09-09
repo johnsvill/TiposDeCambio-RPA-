@@ -1,0 +1,6 @@
+{
+	"Correo":"jvilleda@bdgsa.net",
+	"CorreoDestino":"luhernandez@bdgsa.net",
+	"Asunto":"Reporte de tipos de cambio",
+	"Cuerpo":"Se adjunta archivo generado por el robot."
+}
